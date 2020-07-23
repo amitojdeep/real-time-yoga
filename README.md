@@ -10,6 +10,10 @@ https://drive.google.com/drive/folders/1rxPzNUl585lmWYeKMpEhIbz6Gx8liHx5?usp=sha
 #### Video files used to train the model:
 https://archive.org/details/YogaVidCollected
 
+#### Sample videos of real time operation
+
+https://drive.google.com/drive/folders/1Xc0h5e6ntYcYL13JCwfHP1PuwtrBKbpM
+
 #### To run it on your system-
 
 1. Install and setup openpose https://github.com/CMU-Perceptual-Computing-Lab/openpose
